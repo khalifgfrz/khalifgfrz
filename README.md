@@ -5,8 +5,6 @@
   </a>
 </h1>
 
-<img src="https://github.com/khalifgfrz/khalifgfrz/blob/main/resources/banner.png" alt="Hello world">
-
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/khalifgfrz/count.svg" />
