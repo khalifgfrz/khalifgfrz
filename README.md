@@ -32,7 +32,7 @@ A Backend Website Developer who is always passionate, adaptable in every situati
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-31658D?style=flastic&logo=PostgreSQL&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flastic&logo=oracle&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-2C2B30?style=flat-square&logo=vercel&logoColor=white)
-![VS Code](https://img.shields.io/badge/VisualStudio-2C2B30?style=flastic&logo=VisualStudioCode&logoColor=007ACC)
+![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flastic&logo=visualstudiocode&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-f7f7f7?style=flastic&logo=Postman&logoColor=FF6C37)
 ![Swagger](https://img.shields.io/badge/Swagger-Clojure?style=flastic&logo=swagger&logoColor=white)
 
