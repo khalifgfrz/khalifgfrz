@@ -31,7 +31,7 @@ A Backend Website Developer who is always passionate, adaptable in every situati
 ![Postman](https://img.shields.io/badge/Postman-f7f7f7?style=flastic&logo=Postman&logoColor=FF6C37)
 ![Swagger](https://img.shields.io/badge/Swagger-Clojure?style=flastic&logo=swagger&logoColor=white)
 
-### My Github Stats:
+### My Github Stats
 
 <p align="center">
 <img style="border-radius: 5px; margin-bottom: 5px" alt="Github Contribution Stats" width="330px" height="240px" src="https://github-contribution-stats.vercel.app/api/?username=khalifgfrz" /> 
