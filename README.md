@@ -42,7 +42,3 @@ A Backend Website Developer who is always passionate, adaptable in every situati
 <img style="border-radius: 5px; margin-bottom: 5px" alt="Github Contribution Stats" width="330px" height="240px" src="https://github-contribution-stats.vercel.app/api/?username=khalifgfrz" /> 
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=khalifgfrz&layout=compact&langs_count=8&theme=algolia"/>
 </p>
-
-### StarDev Ranking
-
-<a href="https://stardev.io/developers/khalifgfrz"><img alt="Check out Ikhalifgfrz's profile on stardev.io" src="https://stardev.io/developers/khalifgfrz/badge/languages/global.svg" /></a>
