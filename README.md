@@ -5,11 +5,6 @@
   </a>
 </h1>
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/khalifgfrz/count.svg" />
-</p>
-
 ### 🚀 About Me
 
 A Backend Website Developer who is always passionate, adaptable in every situation, and has a high curiosity in technologies. Developed many things about Backend Website Developer such as Nest JS, Express JS, Django, Go language, etc. Evolved the ability to learn quickly, adapt to new challenges, and thrive in dynamic environments with strong problem-solving and collaboration skills. 
